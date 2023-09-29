@@ -1,0 +1,4 @@
+C:\Users\MINEDUCYT\Desktop\yuli\practica06\practica6-Yulissa20220818\obj\Debug\net7.0\practica6-Yulissa20220818.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\yuli\practica06\practica6-Yulissa20220818\obj\Debug\net7.0\practica6-Yulissa20220818.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\yuli\practica06\practica6-Yulissa20220818\obj\Debug\net7.0\practica6-Yulissa20220818.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\yuli\practica06\practica6-Yulissa20220818\obj\Debug\net7.0\practica6-Yulissa20220818.csproj.CoreCompileInputs.cache
